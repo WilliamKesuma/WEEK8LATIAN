@@ -1,0 +1,23 @@
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\bin\Debug\Week 8 practice.exe.config
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\bin\Debug\Week 8 practice.exe
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\bin\Debug\Week 8 practice.pdb
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\bin\Debug\MySql.Data.dll
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\bin\Debug\Google.Protobuf.dll
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\bin\Debug\ZstdNet.dll
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\bin\Debug\System.Buffers.dll
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\bin\Debug\MySql.Data.xml
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\obj\Debug\Week 8 practice.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\obj\Debug\Week 8 practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\obj\Debug\Week 8 practice.exe.config
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\obj\Debug\Week_8_practice.Form1.resources
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\obj\Debug\Week_8_practice.Properties.Resources.resources
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\obj\Debug\Week 8 practice.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\obj\Debug\Week 8 practice.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\obj\Debug\Week 8 practice.csproj.CopyComplete
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\obj\Debug\Week 8 practice.exe
+C:\Users\student\source\repos\Week 8 practice\Week 8 practice\obj\Debug\Week 8 practice.pdb
